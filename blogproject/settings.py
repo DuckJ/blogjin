@@ -25,7 +25,7 @@ SECRET_KEY = '(@)(^$^a3q4c7w5x%)ew784(az#n7^41-6-asov3j_e^e$nkke'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.duckj.info']
 
 
 # Application definition
